@@ -1,0 +1,100 @@
+#marcaprincipal{
+    color: rgb(0, 255, 128);
+    background-color: rgb(70, 70, 70);
+    margin: 0;
+    border: rgb(70, 70, 70) solid 15px;
+    font-size: 80px;
+    text-align: center;
+}
+body{
+    background-color: rgb(236, 236, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+
+}
+footer{
+    background-color: rgba(70, 70, 70,1);
+    margin:0;
+}
+footer a:hover{
+    transition: 0.7s;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+footer img:hover{
+    width: 80px;
+}
+.irafoxed{
+    font-style: none;
+    color: rgb(70, 70, 70);
+}
+.iralinicio{
+    text-align: right;
+    border: springgreen solid 5px;
+    border-end-end-radius: 20px;
+    border-start-end-radius: 20px;
+    background-color: springgreen;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    font-size: 1rem;
+    border-left: 10px springgreen solid;
+    border-right: 10px springgreen solid;
+}
+.iralinicio:hover{
+    background-color: springgreen;
+    border: springgreen solid 5px;
+    color: rgb(0, 0, 0);
+    border-left: 10px springgreen solid;
+    border-right: 10px springgreen solid;
+    border-radius: 20px;
+    transition: 0.5s;
+}
+.redessociales{
+    font-size: 1.1rem;
+    color: white;
+}
+.copyright{
+    color: rgb(168, 168, 168);
+}
+
+
+/*  */
+/*  */
+/*  */
+
+.post{
+    background-color: White ;
+    border: 4px solid blue;
+    border-radius: 10px;
+    float:left;
+    margin: 15px;
+    width: 450px;
+    height: 460px;
+    
+    
+    0px;
+}
+.nombredelplaneta{
+    font-size: 3rem;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.tupesoes{
+    font-size: 1.5rem;
+}
+.caja{
+    font-size: 1.5rem;
+}
+.kilos{
+    font-size: 1.5rem;
+}
+body section article img{
+    width: 400px;
+}
+section{
+    align-items: center;
+}
+.ladrillo{
+    float: right;
+    margin: 50px;
+}
