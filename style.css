@@ -7,7 +7,7 @@
     text-align: center;
 }
 body{
-    background-color: rgb(236, 236, 255);
+    background-color: rgb(245, 245, 255);
     font-family: Arial, Helvetica, sans-serif;
     margin: 0px;
 
@@ -70,9 +70,11 @@ footer img:hover{
     margin: 15px;
     width: 450px;
     height: 460px;
-    
-    
-    0px;
+}
+.post:hover{
+    background-color: rgb(0, 0, 0);
+    color: white;
+    border-color:rgb(129, 129, 129) ;
 }
 .nombredelplaneta{
     font-size: 3rem;
@@ -84,7 +86,13 @@ footer img:hover{
 }
 .caja{
     font-size: 1.5rem;
+    border: 4px solid rgb(0, 0, 0);
+    border-radius: 10px;
 }
+.caja:hover{
+    border: 4px solid rgb(255, 255, 255);
+}
+
 .kilos{
     font-size: 1.5rem;
 }
@@ -97,4 +105,7 @@ section{
 .ladrillo{
     float: right;
     margin: 50px;
+}
+.imagendelplaneta{
+    border-radius: 10px;
 }
